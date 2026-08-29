@@ -96,4 +96,9 @@ print('----------------------------------------------------')
 print('所有离线设备:')
 for device in devices2:
     if not device['online']:
-        print(f'{device['name']} 当前离线，IP：{device["ip"]}')
+        print(f'{device['name']} 当前离线，IP：{device["ip"]}');
+
+print('----------------------------------------------------')
+
+print(28/7)
+print(f"{28/7:.0f}")
