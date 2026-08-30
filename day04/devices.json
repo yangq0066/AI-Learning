@@ -1,0 +1,14 @@
+[
+  {
+    "name": "设备001",
+    "online": true
+  },
+  {
+    "name": "设备002",
+    "online": false
+  },
+  {
+    "name": "设备003",
+    "online": true
+  }
+]
