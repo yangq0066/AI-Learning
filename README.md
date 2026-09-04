@@ -8,6 +8,9 @@
 
 ## 📅 学习进度
 
+### 阶段一：Python 基础
+
+Day 1 – Day 14
 - [x] Day 1：Python 环境与基础语法
 - [x] Day 2：条件判断
 - [x] Day 3：循环
