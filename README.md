@@ -16,7 +16,7 @@ Day 1 – Day 14
 - [x] Day 3：循环
 - [x] Day 4：函数
 - [x] Day 5：文件、JSON、异常处理、模块
-- [ ] Day 6：dict / list 强化
+- [x] Day 6：dict / list 强化
 - [ ] Day 7：列表与字典综合
 - [ ] Day 8: 字符串与内置函数
 - ...
